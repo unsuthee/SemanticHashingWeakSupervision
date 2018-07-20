@@ -44,7 +44,29 @@ To create kNN for a test set:
 python topK.py -d your_custom_dataset -g 0 --use_train
 ```
 
+## Bibtex
+```
+@inproceedings{Chaidaroon:2018:DST:3209978.3210090,
+ author = {Chaidaroon, Suthee and Ebesu, Travis and Fang, Yi},
+ title = {Deep Semantic Text Hashing with Weak Supervision},
+ booktitle = {The 41st International ACM SIGIR Conference on Research \&\#38; Development in Information Retrieval},
+ series = {SIGIR '18},
+ year = {2018},
+ isbn = {978-1-4503-5657-2},
+ location = {Ann Arbor, MI, USA},
+ pages = {1109--1112},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/3209978.3210090},
+ doi = {10.1145/3209978.3210090},
+ acmid = {3210090},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {semantic hashing, variational autoencoder, weak supervision},
+} 
+```
+
 ## References
 [1] Chaidaroon, Suthee, and Yi Fang. "Variational deep semantic hashing for text documents." Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2017.
+
 
 
