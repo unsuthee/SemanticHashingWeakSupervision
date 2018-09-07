@@ -41,7 +41,7 @@ python topK.py -d your_custom_dataset -g 0 --use_train
 
 To create kNN for a test set:
 ```
-python topK.py -d your_custom_dataset -g 0 --use_train
+python topK.py -d your_custom_dataset -g 0
 ```
 
 ## Bibtex
